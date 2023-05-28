@@ -1,0 +1,15 @@
+C:\Users\richa\source\repos\Calc2\bin\Debug\net5.0\Calc2.exe
+C:\Users\richa\source\repos\Calc2\bin\Debug\net5.0\Calc2.deps.json
+C:\Users\richa\source\repos\Calc2\bin\Debug\net5.0\Calc2.runtimeconfig.json
+C:\Users\richa\source\repos\Calc2\bin\Debug\net5.0\Calc2.runtimeconfig.dev.json
+C:\Users\richa\source\repos\Calc2\bin\Debug\net5.0\Calc2.dll
+C:\Users\richa\source\repos\Calc2\bin\Debug\net5.0\ref\Calc2.dll
+C:\Users\richa\source\repos\Calc2\bin\Debug\net5.0\Calc2.pdb
+C:\Users\richa\source\repos\Calc2\obj\Debug\net5.0\Calc2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\source\repos\Calc2\obj\Debug\net5.0\Calc2.AssemblyInfoInputs.cache
+C:\Users\richa\source\repos\Calc2\obj\Debug\net5.0\Calc2.AssemblyInfo.cs
+C:\Users\richa\source\repos\Calc2\obj\Debug\net5.0\Calc2.csproj.CoreCompileInputs.cache
+C:\Users\richa\source\repos\Calc2\obj\Debug\net5.0\Calc2.dll
+C:\Users\richa\source\repos\Calc2\obj\Debug\net5.0\ref\Calc2.dll
+C:\Users\richa\source\repos\Calc2\obj\Debug\net5.0\Calc2.pdb
+C:\Users\richa\source\repos\Calc2\obj\Debug\net5.0\Calc2.genruntimeconfig.cache
